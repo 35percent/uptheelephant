@@ -1,11 +1,11 @@
 # Site settings
 title: "Up the Elephant"
-email:
+email: 35percentelephant@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/creative-theme-jekyll" # the subpath of your site, e.g. /blog/
+baseurl: "/uptheelephant" # the subpath of your site, e.g. /blog/
 url: "http://35percent.org" # the base hostname & protocol for your site
 
-twitter_username:
+twitter_username: 35percent_EAN
 github_username: 35percent
 
 # Build settings
