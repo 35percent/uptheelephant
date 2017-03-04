@@ -6,7 +6,7 @@ baseurl: "/uptheelephant" # the subpath of your site, e.g. /blog/
 url: "http://35percent.org" # the base hostname & protocol for your site
 
 twitter_username: 35percent_EAN
-github_username: 35percent
+# github_username: 35percent
 
 # Build settings
 markdown: kramdown
