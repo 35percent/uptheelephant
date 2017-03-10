@@ -92,6 +92,7 @@ aside {
                 font-weight: 700;
                 font-size: 13px;
                 color: $theme-dark;
+                text-shadow: 5px 5px 5px #000, 3px 3px 5px blue;
                 &:hover {
                     color: $theme-primary;
                 }
